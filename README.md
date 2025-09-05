@@ -28,10 +28,9 @@ O código `main.c` demonstra a execução de **tarefas de apreensão, transporte
 
 ### Passos
 1. Clone o repositório:
-   ```bash
+   
    git clone https://github.com/vitor-souza-ime/prob3.git
    cd prob3
-````
 
 2. Abra o Webots e carregue o mundo que contém o P-ROB3.
 3. Compile e execute o `main.c` dentro do Webots.
